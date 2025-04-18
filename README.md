@@ -7,8 +7,11 @@ It is the 📘 Final Project for ELEC 825 (Machine Learning/Deep Learning W25), 
 ## 👨‍💻 Contributors
 
 This project was collaboratively completed by the following Queen’s University graduate students:
-•	Jie Cao
-•	Nicholas Chivaran
-•	Henry Yuan
-•	Zelin Zhang
+Team Member Contributions
 
+| Member              | Estimated Contribution | Contributions                                                                                     |
+|---------------------|-------------------------|----------------------------------------------------------------------------------------------------|
+| **Jie Cao**         | 25%                     | **Report**: Methodology  <br> **Development**: Proposed method development, training, and testing |
+| **Nicholas Chivaran** | 25%                   | **Report**: Results & Analysis, Ethical Implications  <br> **Development**: Dataset preparation, reference method integration and testing |
+| **Henry Yuan**      | 25%                     | **Report**: Experimental Setup, Conclusion  <br> **Development**: Dataset preparation, reference method integration and testing |
+| **Zelin Zhang**     | 25%                     | **Report**: Abstract, Introduction, Related Works  <br> **Development**: Proposed method development, training, and testing |
