@@ -39,10 +39,10 @@ dataset/
 ## Usage
 
 ### Dataset
-The dataset used in this project is from [GenImage](https://github.com/GenImage-Dataset/GenImage), a million-scale benchmark for detecting AI-generated images. 
+The dataset used in this project is from [GenImage](https://github.com/GenImage-Dataset/GenImage), a million-scale benchmark for detecting AI-generated images. You can get a simple sample dataset from this link [Dataset](https://github.com/GenImage-Dataset/GenImage).
+
 
 ### Training
-
 ```bash
 python train_ourmethod.py \
     --data_dir /path/to/train/dataset \
@@ -103,6 +103,8 @@ Training logs and model checkpoints will be saved in:
 ```
 ./train_results/fft_training_logs/
 ```
+## Comparison and SOTA methods
+This repository compares various methods for AI-Generated Content (AIGC) detection, including state-of-the-art (SOTA) techniques. We utilize the [AIGCDetectBenchmark repository](https://github.com/Ekko-zn/AIGCDetectBenchmark) to evaluate and test these methods alongside our own approach.
 
 ## Important Notes
 
