@@ -38,6 +38,9 @@ dataset/
 
 ## Usage
 
+### Dataset
+The dataset used in this project is from [GenImage](https://github.com/GenImage-Dataset/GenImage), a million-scale benchmark for detecting AI-generated images. 
+
 ### Training
 
 ```bash
