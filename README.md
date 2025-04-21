@@ -39,7 +39,7 @@ dataset/
 ## Usage
 
 ### Dataset
-The dataset used in this project is from [GenImage](https://github.com/GenImage-Dataset/GenImage), a million-scale benchmark for detecting AI-generated images. You can get a simple sample dataset from this link [Dataset](https://github.com/GenImage-Dataset/GenImage).
+The dataset used in this project is from [GenImage](https://github.com/GenImage-Dataset/GenImage), a million-scale benchmark for detecting AI-generated images. You can get a simple sample dataset from this link [Dataset](https://queensuca-my.sharepoint.com/:u:/r/personal/23rh63_queensu_ca/Documents/dataset.tar.gz?csf=1&web=1&e=FeqVEx).
 
 
 ### Training
